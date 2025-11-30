@@ -12,8 +12,8 @@ In the meantime, I'm continuously learning to stay sharp and up-to-date with mod
 
 ## Skills & Tools 🛠️
 
-* **Languages:** JavaScript, HTML, CSS
-* **Frameworks & Libraries:** Vue.js, React (learning), Liquid
+* **Languages:** JavaScript, HTML%5, CSS,
+* **Frameworks & Libraries:**, React, Liquid, Tailwind CSS, Next.js (learning)
 * **Platforms:** Shopify, Git/GitHub
 * **Design:** Figma, Adobe Creative Suite
 
@@ -21,7 +21,6 @@ In the meantime, I'm continuously learning to stay sharp and up-to-date with mod
 
 ## Currently Learning 🌱
 
-* Strengthening JavaScript fundamentals
 * Exploring more advanced front-end patterns
 * Enhancing accessibility and performance skills
 
