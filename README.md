@@ -12,7 +12,7 @@ In the meantime, I'm continuously learning to stay sharp and up-to-date with mod
 
 ## Skills & Tools 🛠️
 
-* **Languages:** JavaScript, HTML%5, CSS,
+* **Languages:** JavaScript + TypeScript
 * **Frameworks & Libraries:**, React, Liquid, Tailwind CSS, Next.js (learning)
 * **Platforms:** Shopify, Git/GitHub
 * **Design:** Figma, Adobe Creative Suite
